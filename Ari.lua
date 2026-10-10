@@ -1,7 +1,3 @@
-
--- Detected obfuscation: Luraph v15
--- Local names are inferred from use (the original names are not in the bytecode)
-
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/UwU/refs/heads/main/UI/Wind.lua"))()
 lib:SetNotificationLower(true)
 
